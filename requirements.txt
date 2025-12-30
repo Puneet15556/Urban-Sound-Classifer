@@ -1,0 +1,7 @@
+streamlit
+librosa
+numpy
+soundfile
+joblib
+xgboost
+scikit-learn
